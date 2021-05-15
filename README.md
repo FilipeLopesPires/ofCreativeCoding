@@ -25,7 +25,7 @@ Noisy Surface Colorful  |  Noisy Surface Colorful 2
 
 <p float="left">
   <img src="https://github.com/FilipePires98/ofCreativeCoding/blob/main/docs/VoxelCube-NoisySurfaceColorful.gif" width="360px">
-  <!--<img src="https://github.com/FilipePires98/ofCreativeCoding/blob/main/docs/VoxelCube-NoisySurfaceColorful2.gif" width="360px">-->
+  <img src="https://github.com/FilipePires98/ofCreativeCoding/blob/main/docs/VoxelCube-NoisySurfaceColorful2.gif" width="360px">
 </p>
 
 Noisy Surface Walk  |  Noisy Surface Walk 2
