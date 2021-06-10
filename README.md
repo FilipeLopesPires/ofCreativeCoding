@@ -28,25 +28,12 @@ Noisy Surface Colorful  |  Noisy Surface Colorful 2
   <img src="https://github.com/FilipePires98/ofCreativeCoding/blob/main/docs/VoxelCube-NoisySurfaceColorful2.gif" width="360px">
 </p>
 
-Noisy Surface Walk  |  Noisy Surface Walk 2
+Noisy Fire  |  Drilling Layers
 
-<!--<p float="left">
-  <img src="https://github.com/FilipePires98/ofCreativeCoding/blob/main/docs/VoxelCube-NoisySurfaceWalk.gif" width="360px">
-  <img src="https://github.com/FilipePires98/ofCreativeCoding/blob/main/docs/VoxelCube-NoisySurfaceWalk2.gif" width="360px">
-</p>-->
-
-Noisy Fire  |  Noisy Waves
-
-<!--<p float="left">
+<p float="left">
   <img src="https://github.com/FilipePires98/ofCreativeCoding/blob/main/docs/VoxelCube-NoisyFire.gif" width="360px">
-  <img src="https://github.com/FilipePires98/ofCreativeCoding/blob/main/docs/VoxelCube-NoisyWaves.gif" width="360px">
-</p>-->
-
-Drilling Layers
-
-<!--<p float="left">
   <img src="https://github.com/FilipePires98/ofCreativeCoding/blob/main/docs/VoxelCube-DrillingLayers.gif" width="360px">
-</p>-->
+</p>
 
 (...)
 
